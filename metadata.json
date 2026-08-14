@@ -1,0 +1,6 @@
+{
+  "name": "TAK TAK TAXI",
+  "description": "Application Web & Mobile (PWA) de mise en relation entre chauffeurs et passagers à Niamey (Niger). Bêta de confiance sans commission avec vérification OCR par Gemini.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
