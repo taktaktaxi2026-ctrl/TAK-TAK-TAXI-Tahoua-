@@ -1,0 +1,1 @@
+git apply .agents/workspace/output/niger-market-readiness.patch
